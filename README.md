@@ -1,5 +1,7 @@
 # Data-Incubator-Project-Proposal
 
+FIGURE 1:
+
 This figure gives insight on job popularity and trends, particularly for Data Scientist.
 
 The first plot shows the top 20 popular positions in 2011-2016. 
